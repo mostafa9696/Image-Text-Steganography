@@ -1,0 +1,27 @@
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\Image_Text_Steganography._.Assembly.exe.config
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\Image_Text_Steganography._.Assembly.exe
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\Image_Text_Steganography._.Assembly.pdb
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image Text Steganography .. Assembly.csprojResolveAssemblyReference.cache
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography_._Assembly.Properties.Resources.resources
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image Text Steganography .. Assembly.csproj.GenerateResource.Cache
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography._.Assembly.exe
+c:\users\ibrahim\documents\visual studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography._.Assembly.pdb
+C:\Users\ibrahim\Documents\Visual Studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\MetroFramework.dll
+C:\Users\ibrahim\Documents\Visual Studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography_._Assembly.Forms.FRMWelcome.resources
+C:\Users\ibrahim\Documents\Visual Studio 2017\Projects\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography_._Assembly.Forms.FRMHide.resources
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\Image_Text_Steganography._.Assembly.exe.config
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography._.Assembly.exe
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography._.Assembly.pdb
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\Image_Text_Steganography._.Assembly.exe
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\Image_Text_Steganography._.Assembly.pdb
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\mscorlib.dll
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\normidna.nlp
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\normnfc.nlp
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\normnfd.nlp
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\normnfkc.nlp
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\bin\Debug\normnfkd.nlp
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image Text Steganography .. Assembly.csprojResolveAssemblyReference.cache
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography_._Assembly.Forms.FRMHide.resources
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography_._Assembly.Forms.FRMWelcome.resources
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image_Text_Steganography_._Assembly.Properties.Resources.resources
+E:\assembly project\Image Text Steganography .. Assembly\Image Text Steganography .. Assembly\obj\Debug\Image Text Steganography .. Assembly.csproj.GenerateResource.Cache

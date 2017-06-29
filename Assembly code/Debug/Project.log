@@ -1,0 +1,10 @@
+﻿Build started 3/30/2017 9:23:36 PM.
+     1>Project "E:\assembly project\Project_Template\Project.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="14.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>Link:
+         Project.vcxproj -> E:\assembly project\Project_Template\Debug\Project.exe
+     1>Done Building Project "E:\assembly project\Project_Template\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
